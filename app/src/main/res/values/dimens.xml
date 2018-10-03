@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_icon_size">40dp</dimen>
+    <dimen name="search_bar_cell_height">52dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_size">40sp</dimen>
+    <dimen name="weather_text_margin">20dp</dimen>
+    <dimen name="forecast_cell_width">90dp</dimen>
+    <dimen name="forecast_cell_height">110dp</dimen>
+    <dimen name="icon_forecast_cell_width">50dp</dimen>
+    <dimen name="icon_forecast_cell_height">40dp</dimen>
+    <dimen name="switch_layout_height">40dp</dimen>
+</resources>
